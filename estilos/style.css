@@ -3,16 +3,19 @@
     font-size: 20px;
 }
 body{
-    background-color: brown;
     text-align: justify;
+    background-image:url(blogger.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: darkslategrey;
 }
-main{
-    background-color: ivory;
-    margin: 15px;
-    width: 600px;
-    padding: 30px;
+ main{
+    background-color: rgba(218, 208, 202, 0.42);
+    margin: 100px;
+    width: 1250px;
+    padding: 10px 10px 10px 20px;
     box-shadow: 3px 3px 4px black;
-}
+} 
 h1{
     text-align: center;
     font-size: 40px;
@@ -29,4 +32,7 @@ h2{
 #css{
     width: 90px;
     padding: 20px;
+}
+#cnn{
+    margin-left: 25%;
 }
